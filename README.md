@@ -3,7 +3,7 @@
 
 X-Nuker a simple Discord Spammer/Nuker
 
-
+WE ARE NOT RESPONSIBLE FOR ANY DAMAGE
 
 
 ## Authors
