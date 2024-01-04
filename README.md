@@ -15,5 +15,5 @@ X-Nuker a simple Discord Spammer/Nuker
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Screenshot_23.png)
 
