@@ -1,8 +1,19 @@
-X-Nuker
+
+# X-Nuker
+
 X-Nuker a simple Discord Spammer/Nuker
 
-Authors
-@X-Toolsofficial
-@SeanTheKingyt
-Screenshots
-App Screenshot
+
+
+
+## Authors
+
+- [@X-Toolsofficial](https://github.com/X-Toolsofficial)
+- [@SeanTheKingyt](https://github.com/SeanTheKingyt)
+
+
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
